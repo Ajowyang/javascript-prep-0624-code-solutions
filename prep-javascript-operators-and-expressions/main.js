@@ -34,6 +34,6 @@ console.log('Value of isSparta:', isSparta);
 console.log('Type of isSparta:', typeof isSparta);
 
 let nickname = fullName;
-nickName = nickname + '  is the GOAT';
+nickname += '  is the GOAT';
 console.log('Value of nickname:', nickname);
 console.log('Type of nickname:', typeof nickname);
